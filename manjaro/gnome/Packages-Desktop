@@ -293,3 +293,11 @@ xorg-xinit
 >extra bmenu
 >extra manjaro-ranger-settings
 >extra pacui
+
+## Extra software
+htop
+iftop
+iotop
+neofetch
+wireguard-tools
+zabbix-agent2
