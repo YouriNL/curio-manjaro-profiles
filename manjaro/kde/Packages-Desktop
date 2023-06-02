@@ -272,3 +272,11 @@ power-profiles-daemon
 ## Misc
 manjaro-hotfixes
 >basic squashfs-tools
+
+## Extra software
+htop
+iftop
+iotop
+neofetch
+wireguard-tools
+zabbix-agent2
