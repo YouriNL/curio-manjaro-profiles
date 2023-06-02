@@ -243,3 +243,11 @@ manjaro-hotfixes
 >basic squashfs-tools
 xiccd # enable color profile settings
 tlp
+
+## Extra software
+htop
+iftop
+iotop
+neofetch
+wireguard-tools
+zabbix-agent2
