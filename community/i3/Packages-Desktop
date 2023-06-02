@@ -156,3 +156,11 @@ xdg-user-dirs
 xorg-server
 >extra yay
 zensu
+
+## Extra software
+htop
+iftop
+iotop
+neofetch
+wireguard-tools
+zabbix-agent2
